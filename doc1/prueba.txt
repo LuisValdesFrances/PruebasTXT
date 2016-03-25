@@ -1,2 +1,4 @@
 documento de prueba
 Nueva linea
+
+La mejora alternativa dos se escribe en otra linea, para no liarla
